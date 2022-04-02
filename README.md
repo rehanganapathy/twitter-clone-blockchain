@@ -8,3 +8,6 @@ create a .env.local file with the following
   NEXT_PUBLIC_PINATA_API_SECRET=
 
 you will find these on the sanity and pinata websites on adding projects
+
+
+run using npm run dev
